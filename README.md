@@ -12,8 +12,7 @@ Dump repository for Neuromatch Academy 2020
 8. Numpy, matplotlib, python, PEP8      :heavy_check_mark:
 
 ## Python Tutorials
-Day 1:- [Colab link](https://colab.research.google.com/drive/1AR3tHDqJ2mh5nzvTwPBZlErUoES84cUK?usp=sharing#scrollTo=p0IDofmGmlfW)
-
+Day 1:- [![Colab link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AR3tHDqJ2mh5nzvTwPBZlErUoES84cUK?usp=sharing#scrollTo=p0IDofmGmlfW)
 # NeuroMatch Academy (NMA) syllabus
 
 *July 13-31, 2020*
