@@ -21,6 +21,8 @@ Tutorial 1:- [![Open in Colab](https://colab.research.google.com/assets/colab-ba
 
 Tutorial 2:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YADtpfPq2yrSLK6iQWLM6CPXnYI1aLl9#scrollTo=HwYPw4CvrYCV)
 
+Tutorial 3:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1K1zqN4p9S-OJLGssEeg6AUOEySIlu1n1)
+
 
 # NeuroMatch Academy (NMA) syllabus
 
