@@ -15,6 +15,11 @@ Dump repository for Neuromatch Academy 2020
 Day 1:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AR3tHDqJ2mh5nzvTwPBZlErUoES84cUK?usp=sharing#scrollTo=p0IDofmGmlfW)
 
 Day 2:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10aaZM1lrl0ZoIdt83lP_OHMqd44U-FYc?usp=sharing#scrollTo=YL2_mjdRyaSg)
+
+## Tutorial Day 1:- 13th July
+Tutorial 1:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vrvR0TqtXcsFgzja9nHZswVeuR_AqpRw)
+
+
 # NeuroMatch Academy (NMA) syllabus
 
 *July 13-31, 2020*
