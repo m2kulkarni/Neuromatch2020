@@ -3,12 +3,12 @@ Dump repository for Neuromatch Academy 2020
 
 # Prereq 
 1. Scipy                                :heavy_check_mark:
-2. Scikit learn                         :x:
+2. Scikit learn                         :heavy_check_mark:
 3. Coursera Comp neuro                  :heavy_check_mark:
 4. Neuroscience short read              :x:
 5. Lin alg 3b1b                         :heavy_check_mark:
 6. Probability short read               :heavy_check_mark:
-7. Calculus review                      :x:
+7. Calculus review                      :heavy_check_mark:
 8. Numpy, matplotlib, python, PEP8      :heavy_check_mark:
 
 ## Python Tutorials
