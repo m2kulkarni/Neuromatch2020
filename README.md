@@ -23,6 +23,9 @@ Tutorial 2:- [![Open in Colab](https://colab.research.google.com/assets/colab-ba
 
 Tutorial 3:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1K1zqN4p9S-OJLGssEeg6AUOEySIlu1n1)
 
+## Tutorial Day 2:- 14th July
+Tutorial 1:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.overleaf.com/project/5f0d8f5b891cbc0001c910fd)
+
 
 # NeuroMatch Academy (NMA) syllabus
 
