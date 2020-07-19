@@ -11,6 +11,8 @@ Dump repository for Neuromatch Academy 2020
 7. Calculus review                      :heavy_check_mark:
 8. Numpy, matplotlib, python, PEP8      :heavy_check_mark:
 
+### [MIRO BOARD](https://miro.com/app/board/o9J_kpXLPwk=/)
+
 ## Python Tutorials
 Day 1:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AR3tHDqJ2mh5nzvTwPBZlErUoES84cUK?usp=sharing#scrollTo=p0IDofmGmlfW)
 
