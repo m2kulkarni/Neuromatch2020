@@ -57,6 +57,10 @@ Tutorial 3:- [![Open in Colab](https://colab.research.google.com/assets/colab-ba
 
 Tutorial 4:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XotSHcsVGM9XjoF-pjZMNnUQgEYBFgrl#scrollTo=a1pq-AcBBJ5L)
 
+## Tutorial Day 6:- 20th July
+Tutorial 1:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/110LesyAByOtBNbK5Yr0UZ6vTPdmbPH3q#scrollTo=l37e0INGVel5)
+
+Tutorial 2:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rDJcQJPZ9nSq3ySwqRr1naVRUHd6C8xk#scrollTo=GXrEe4ctakqR)
 # NeuroMatch Academy (NMA) syllabus
 
 *July 13-31, 2020*
