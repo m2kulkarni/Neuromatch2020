@@ -1,6 +1,32 @@
 # Neuromatch2020
 Dump repository for Neuromatch Academy 2020
 
+
+# PROJECT
+Steinmetz data loader:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uiuCFkkTqU2vaEcbx76B-dWjzekkno8o?usp=sharing#scrollTo=TLWjKq8bLDqm)
+
+Data loader using ONE environment for looking at the full dataset:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d-mEZI2dpLglcdqbURNQqY8YZn27o8Tc?usp=sharing)
+
+## Following Sub-population Signal
+
+### Scientific questions: 
+Can we identify specific sub-population activity within different brain areas in making choice?
+- Study the participation of a specific subtype in either vision, choice and action encoding: like identifying the parameters that differentiate vision-choice-action neurons.
+- Identify the pattern for outlier neuron firing (neuron that cannot be clustered with others). 
+
+### Brief scientific background: 
+The goal is to reveal more insights about the connection between different brain areas and how they subpopulations communicate, like order of firing of specific neuronal type, and the correlation between order of firing between different brain regions.
+
+### Techniques: 
+Granger Causality, PCA, Markov Models. 
+
+### Predictions:
+1. Different neuronal clusters in brain areas involved have different signal propagation pattern.
+2. Correct, error and misses trials show different pre-signal states in at least some clusters.
+3. Insightful understanding about neurons involved in vision, choice, and action.
+
+### Dataset: Steinmetz.
+
 # Prereq 
 1. Scipy                                :heavy_check_mark:
 2. Scikit learn                         :heavy_check_mark:
