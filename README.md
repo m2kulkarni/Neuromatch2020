@@ -106,7 +106,7 @@ Tutorial 1:- [![Open in Colab](https://colab.research.google.com/assets/colab-ba
 
 Tutorial 2:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19SXe1vs5Lx3qwIjqkZ3sOBeV_8bVhKbf#scrollTo=5zVIkXtFAzR2)
 
-Tutorial 3:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+Tutorial 3:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NYirQli2KI1znL-zzFACRH-_RsscFDOA)
 
 # NeuroMatch Academy (NMA) syllabus
 
