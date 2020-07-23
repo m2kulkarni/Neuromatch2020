@@ -111,6 +111,8 @@ Tutorial 3:- [![Open in Colab](https://colab.research.google.com/assets/colab-ba
 ## Tutorial Day 9:- 23rd July
 Tutorial 1:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uQ6bLPLgaVXEL37Et71PPWODFpLG73cs#scrollTo=FdNoX-pa3k7x)
 
+Tutorial 2:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RFx0mG2kmeUb-acN9GdJkt8w0TvWlKA5#scrollTo=7z6mINZDRdM_)
+
 # NeuroMatch Academy (NMA) syllabus
 
 *July 13-31, 2020*
@@ -120,7 +122,7 @@ Tutorial 1:- [![Open in Colab](https://colab.research.google.com/assets/colab-ba
 **Tutorial microstructure**: ~5min talk, ~15min hands-on (repeated)
 
 **Day structure**: Opening keynote, 2.5h lecture/tutorial modules, 1/2h group discussion, 1h interpretation lecture + live Q&As (what did we learn today, what does it mean, underlying philosophy). There will also be many networking activities!
-
+https://colab.research.google.com/drive/1RFx0mG2kmeUb-acN9GdJkt8w0TvWlKA5#scrollTo=7z6mINZDRdM_
 **Note for visitors from China**: This repository contains many links to YouTube and Google Colab. We have a version of the repository with those same videos posted on bilibili, and the Google Colab links replaced with links to Aliyun. Please visit the [China Accessible Neuromatch Course-Content](https://github.com/erlichlab/course-content/)
 
 **Prerequisites**: [See here](https://github.com/NeuromatchAcademy/precourse)
