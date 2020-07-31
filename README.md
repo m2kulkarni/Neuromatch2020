@@ -136,7 +136,7 @@ Tutorial 1:- [![Open in Colab](https://colab.research.google.com/assets/colab-ba
 
 Tutorial 2:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QUpWUFOQ55QEUSDUqfI-4Wu-qXw9gJaa#scrollTo=Oh1wn4afauo0)
 
-## Tutorial Day 13:- 28th July
+## Tutorial Day 13:- 29th July
 Tutorial 1:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zKK9TyUvyUnLBHtFwceJy44GsSNuMAw0#scrollTo=RGhlBxNSL8Rv)
 
 Tutorial 2:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qnwz_MD_bC6RqdDjtXn3bJuAd_cPmmpi#scrollTo=aJ_5IivdaG2e&uniqifier=1)
@@ -145,12 +145,19 @@ Tutorial 3:- [![Open in Colab](https://colab.research.google.com/assets/colab-ba
 
 Tutorial 4:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Iuv5J5SI9DdQhCTOIDnj2BVCAu3bNkQk#scrollTo=PWaDbLS0qE-8)
 
-## Tutorial Day 13:- 28th July
+## Tutorial Day 14:- 30th July
 Tutorial 1:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gzZIU1Su6UNlAry69Dab13cFOWJX0LE7#scrollTo=6PFDUX1sXWRZ)
 
 Tutorial 2:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JE7hp8mag7BL1sDM5ITfXm0oNln02w0G#scrollTo=6PFDUX1sXWRZ&uniqifier=1)
 
 Tutorial 3:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vQPogGuoNc5B2EtKucBlcMVwH-g1PFBA)
+
+## Tutorials Day 15:- 31st July
+Tutorial 1:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dNCLeIk8jS8VmBBNa3ebdJPQP_G1cess#scrollTo=YL2_mjdRyaSg&uniqifier=5)
+
+Tutorial 2:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LRi5kqvoFC2K_QDZGFHis4_aHy0H7QaV#scrollTo=YL2_mjdRyaSg&uniqifier=11)
+
+Tutorial 3:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JAgImYTER_AFNNHH77Q6Ej5KaledMP91#scrollTo=YL2_mjdRyaSg)
 
 # NeuroMatch Academy (NMA) syllabus
 
