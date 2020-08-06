@@ -3,6 +3,8 @@ Dump repository for Neuromatch Academy 2020
 
 
 # PROJECT
+Final Project Notebook:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rJnVE66m6yppVstSwIxEly-YBpmL0xYr?usp=sharing)
+
 Steinmetz data loader:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uiuCFkkTqU2vaEcbx76B-dWjzekkno8o?usp=sharing#scrollTo=TLWjKq8bLDqm)
 
 Steinmetz Extra:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-JDYcy3AfThPy1Pvjk4vJv4JcdplSRv8#scrollTo=TLWjKq8bLDqm)
