@@ -5,7 +5,7 @@ Repository for Neuromatch Academy 2020
 # PROJECT
 Final Project Notebook:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rJnVE66m6yppVstSwIxEly-YBpmL0xYr?usp=sharing)
 
-[Slides](NMA_superior_colliculi.pdf)
+[Slides](https://drive.google.com/file/d/1ExcMQ9VGqkQcdHEF7SpatAE6l6Yg2LEl/view?usp=sharing)
 
 Steinmetz data loader:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uiuCFkkTqU2vaEcbx76B-dWjzekkno8o?usp=sharing#scrollTo=TLWjKq8bLDqm)
 
