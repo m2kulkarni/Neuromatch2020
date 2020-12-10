@@ -12,6 +12,8 @@ Steinmetz Extra:- [![Open in Colab](https://colab.research.google.com/assets/col
 
 ## Following Sub-population Signal
 
+Mentor: Prof. James Murray
+
 ### Scientific questions: 
 Can we identify specific sub-population activity within different brain areas in making choice?
 - Study the participation of a specific subtype in either vision, choice and action encoding: like identifying the parameters that differentiate vision-choice-action neurons.
