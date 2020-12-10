@@ -1,14 +1,6 @@
 # Neuromatch2020
 Repository for Neuromatch Academy 2020
 
-# Re-NMA(2nd Dec-)
-## Tutorial Day 1:- 2nd December
-Tutorial 1:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DkfkOAzLpArnKq1eJKBXJQ5YoyYbf0j0#scrollTo=TTAjEbBns2nu)
-Tutorial 2:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1X6YKQQUGeDkom23KIIrM4pCvv4jo_i5S#scrollTo=T7Mam3fOs2xk)
-Tutorial 3:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XG_P_6RVEJbCscBLpDW99c3I5PFIIgcS#scrollTo=lUg_vLwgs26W)
-
-
-
 # PROJECT
 Final Project Notebook:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rJnVE66m6yppVstSwIxEly-YBpmL0xYr?usp=sharing)
 
@@ -169,6 +161,17 @@ Tutorial 1:- [![Open in Colab](https://colab.research.google.com/assets/colab-ba
 Tutorial 2:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LRi5kqvoFC2K_QDZGFHis4_aHy0H7QaV#scrollTo=YL2_mjdRyaSg&uniqifier=11)
 
 Tutorial 3:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JAgImYTER_AFNNHH77Q6Ej5KaledMP91#scrollTo=YL2_mjdRyaSg)
+
+
+# Re-NMA(2nd Dec-)
+
+## Tutorial Day 1:- 2nd December
+Tutorial 1:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DkfkOAzLpArnKq1eJKBXJQ5YoyYbf0j0#scrollTo=TTAjEbBns2nu)
+Tutorial 2:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1X6YKQQUGeDkom23KIIrM4pCvv4jo_i5S#scrollTo=T7Mam3fOs2xk)
+Tutorial 3:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XG_P_6RVEJbCscBLpDW99c3I5PFIIgcS#scrollTo=lUg_vLwgs26W)
+
+
+
 
 # NeuroMatch Academy (NMA) syllabus
 
