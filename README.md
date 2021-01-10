@@ -178,6 +178,12 @@ Tutorial 2:- [![Open in Colab](https://colab.research.google.com/assets/colab-ba
 Tutorial 3:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sAOb0PJlEAWwpn852Zy20Enn-qMMs-7t#scrollTo=B-fyGksddVwl)
 Tutorial 4:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pyD5y7v1wLsQDApAGkee6dMrKY1hfU1D#scrollTo=Sti2rFeZdVwl)
 
+## Tutorial Day 6:- 9th Jan
+Tutorial 1:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1F9zJlWDmFlSHyY67G37nylrzt8SuUhJ_#scrollTo=fF-jJGQmkQwV)
+Tutorial 2:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tmUUEaLHLj0Q5MQYsgdzX2tyeuwFVFR6#scrollTo=94r9IHptkQwd)
+Tutorial 3:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14ezOqAuLTWSil_EYUzq1Y6PVBUSINi_g#scrollTo=mMb5xTh0kQwb)
+Tutorial 4:- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14bljmaHvUADOfiMiTCSk5KdjSvr2iIG9#scrollTo=_etJysb7kQwU)
+
 
 
 
